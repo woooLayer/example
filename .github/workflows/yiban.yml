@@ -24,4 +24,4 @@ jobs:
         pip install fyiban
     - name: Run
       run: |
-        python YibanSubmit.py
+        python index.py
